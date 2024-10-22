@@ -1,17 +1,25 @@
 <!DOCTYPE html>
-<head
+<html>
 
-></head>
-<title>AluraFlix</header>
-    <body>
-<header>AluraFlix</header>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Aluraflix</title>
+</head>
+
+<body>
+    <section>
+        <div>
+            <header>Aluraflix</header>
+            <h1> Madagascar </h1>
+            <p> FILMAO </p>
+        </div>
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/orAqhC-Hp_o?si=Pb_DMfPg_CoUQAQ7"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
 </body>
-<section>
-<div>
-<header><iframe width="560" height="315" src="<iframe width="560" height="315" src="https://www.youtube.com/embed/fq5zU9T_Hl4?si=Gk23q4KTkx72J2Vn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<section>
-    <footer>
 
-    </footer>
-    <html
+</html>
